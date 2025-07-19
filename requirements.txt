@@ -1,0 +1,7 @@
+aiogram>=3.0.0
+apscheduler
+psycopg2-binary
+pandas>=2.0.0
+requests>=2.30.0
+numpy<2.0.0
+asyncpg
